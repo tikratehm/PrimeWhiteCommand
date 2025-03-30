@@ -1,0 +1,7 @@
+name: PrimeWhiteCommand
+version: 1.0
+main: tikrate.PrimeWhiteCommand.PrimeWhiteCommand
+api-version: 1.16
+commands:
+  pwc:
+    usage: /pwc reload

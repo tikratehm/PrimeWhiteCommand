@@ -1,0 +1,8 @@
+blocked-commands:
+  - lp editor
+  - plugins
+  - papi
+  - placeholderapi
+
+whitelist-players:
+  - nick
